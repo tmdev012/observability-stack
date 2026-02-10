@@ -1,0 +1,3 @@
+prometheus-client>=0.19
+structlog>=23.0
+python-json-logger>=2.0
